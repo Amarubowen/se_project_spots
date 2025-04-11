@@ -4,25 +4,21 @@
   padding: 34px 0 20px;
   border-bottom: 1px rgba(33, 33, 33, 0.4) solid;
   max-width: 1280px;
-  min-height: 210px;
 }
 
 .profile__avatar {
   width: 190px;
-  height: 247.83px;
+  height: 190;
   margin-right: 20px;
-}
-
-.profile__avatar-rectangle {
-  height: 190px;
   border-radius: 8px;
   color: #d9d9d9;
+  object-fit: cover;
 }
 
 .profile__column {
   display: flex;
   flex-direction: column;
-  width: 420px;
+  max-width: 420px;
   font-family: poppins, Arial, Helvetica, sans-serif;
 }
 
@@ -53,6 +49,8 @@
 }
 
 .profile__edit-btn {
+  display: flex;
+  gap: 8px;
   font-family: poppins, Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -61,6 +59,14 @@
   opacity: 70%;
   border: none;
   background-color: transparent;
+  color: #212121;
+  padding: 0;
+  cursor: pointer;
+}
+
+.profile__edit-btn:hover {
+  color: #212121;
+  opacity: 0%;
 }
 
 .profile__add-btn {
