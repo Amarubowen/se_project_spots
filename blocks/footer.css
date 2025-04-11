@@ -1,9 +1,8 @@
 .footer {
   display: flex;
-  width: 106px;
-  height: 16px;
-  padding: 10px 0;
+  max-width: 106px;
   margin: 0 auto;
+  padding: 60px 0;
 }
 
 .footer__copyright {
