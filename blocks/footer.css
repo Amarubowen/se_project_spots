@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  width: 106px;
+  height: 16px;
+  line-height: 16px;
+  font-family: poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: 16px;
+  padding: 10px 0;
+  margin: 0 auto;
+}
