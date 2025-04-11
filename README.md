@@ -1,6 +1,6 @@
 # Project 3: Spots
 
-A website designed for posting images along with whatever u with to describe them by.
+A website designed for posting images along with whatever you wish to describe them by.
 
 ## Description
 
