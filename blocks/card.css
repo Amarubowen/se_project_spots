@@ -25,7 +25,7 @@
   line-height: 1.2;
   margin: 0;
   overflow: hidden;
-  max-width: 420px;
+  max-width: 350px;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
@@ -61,6 +61,6 @@
   .card__title {
     font-size: 16px;
     line-height: 1;
-    max-width: 288px;
+    max-width: 250px;
   }
 }
