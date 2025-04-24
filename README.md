@@ -17,3 +17,4 @@ This project was made with all the skills ive learned throughout all my projects
 Webpage will be deployed to Git Hub.
 
 - Link: https://amarubowen.github.io/se_project_spots/index.html
+- video:https://drive.google.com/drive/folders/11fxZUz8KeAqDnfL8EfqAWcAI9cpQEuo0?usp=drive_link
